@@ -10,8 +10,7 @@ setup(
     url='https://github.com/shmbrg/package',
     packages=find_packages(exclude="tests"),
     install_requires=[
-        'datatable==1.0.0',
-        'pytest-6.2.5'
+        'datatable==1.0.0'
     ],
     python_requires='>=3.8',
     classifiers=[
